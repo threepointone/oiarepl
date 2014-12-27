@@ -4,7 +4,7 @@ oiarepl
 npm install oiarepl -g
 oiarepl
 ```
-!(screenshot)[http://i.imgur.com/vOIeyAK.png]
+![screenshot](http://i.imgur.com/vOIeyAK.png)
 
 a tiny layer on node's `repl`. 
 - evaluates oia expressions on the fly, and saves the result of the expression to `_last`
