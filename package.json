@@ -1,0 +1,21 @@
+{
+  "name": "oiarepl",
+  "version": "1.0.0",
+  "description": "a repl for oia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "oia",
+    "repl"
+  ],
+  "author": "Sunil Pai <threepointone@gmail.com>",
+  "license": "ISC",
+  "bin": {
+    "oiarepl": "./index.js"
+  },
+  "dependencies": {
+    "oia": "^1.0.9"
+  }
+}
