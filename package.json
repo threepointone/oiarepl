@@ -16,6 +16,6 @@
     "oiarepl": "./index.js"
   },
   "dependencies": {
-    "oia": "^1.0.9"
+    "oia": "^1.0.13"
   }
 }
